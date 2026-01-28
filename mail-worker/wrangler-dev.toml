@@ -30,7 +30,6 @@ run_worker_first = true
 
 
 [vars]
-orm_log = false
 domain = ["yzmbest.cn"]
 admin = "admin@yzmbest.cn"
 jwt_secret = "b7f29a1d-18e2-4d3b-941f-f6b2c97c02fd"
